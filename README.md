@@ -6,7 +6,7 @@ and just on github so i dont
 have to do it later. but still
 it works!
 
-![DSCN0836](https://github.com/user-attachments/assets/13eb5439-282f-43aa-a52e-cb37ae994f7e)
+<img width="800" height="800" alt="classic" src="https://github.com/user-attachments/assets/3bde15e8-dea0-4732-ae57-89dea39c7b3a" />
 
 # info
 powerd by the PISTON module:
